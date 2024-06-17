@@ -1,7 +1,7 @@
 python_dict = {
     "name": "Jane",
-    "age": 25,
-    "city": "Los Angeles"
+    "age": 21,
+    "city": "Tabriz"
 }
 
 json_string = json.dumps(python_dict)
